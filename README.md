@@ -2,12 +2,12 @@
 
 This repository shows examples of my data visualization work. Tools used: Tableau, Google Data Studio, Redash.
 
-##Redash
+## Redash
 description
 
-##Tableau
+## Tableau
 some text
 
-##Google Data Studio
+## Google Data Studio
 some text
 
