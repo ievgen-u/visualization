@@ -3,7 +3,7 @@
 This repository shows examples of my data visualization work. Tools used: Tableau, Google Data Studio, Redash.
 
 ## Redash
-description
+In this case...
 
 ## Tableau
 some text
