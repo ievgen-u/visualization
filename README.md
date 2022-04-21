@@ -6,7 +6,9 @@ This repository shows examples of my data visualization work. Tools used: Tablea
 
 ![alt text](https://github.com/ievgen-u/visualization/blob/main/redash.png)
 
-In this case...[click](https://redash.lab.karpov.courses/dashboards/544-dashboard_sales_ievgen)
+*** Task: *** Build a dashboard for the sales department. Display the main indicators: the number of users, the average bill, top products, and other graphs. Additionally, set up notifications about a decrease in sales per month
+
+View dashboard [click](https://redash.lab.karpov.courses/dashboards/544-dashboard_sales_ievgen)
 
 
 ## Tableau
