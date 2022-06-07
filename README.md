@@ -13,6 +13,8 @@ Task: Build a dashboard for the sales department. Display the main indicators: t
 
 ## Tableau
 
+![alt text](https://github.com/ievgen-u/visualization/blob/main/tableau.png)
+
 Task: build a dashboard for the sales department, show profit by product and region. Set up filters by dates and products/regions
 [View Dashboard](https://public.tableau.com/app/profile/ievgen8333/viz/portfolio_16546001004650/Dashboard1)
 
